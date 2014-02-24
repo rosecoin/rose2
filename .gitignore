@@ -1,0 +1,8 @@
+Makefile
+build
+rosecoin-qt
+qrc_bitcoin.cpp
+src/obj
+src/rosecoind
+src/rosecoind.exe
+release/rosecoin-qt.exe
