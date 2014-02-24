@@ -50,7 +50,7 @@ extern CScript COINBASE_FLAGS;
 
 
 
-static const uint256 hashGenesisBlockOfficial("0xc490ea3e9314cfa793c6b7f193cabe2bdcb13d57a440ff409eaaeb589ec9f71e");
+static const uint256 hashGenesisBlockOfficial("0x45b5a33179c3a4b767303449ffdf8591f591a36fc382722802fa6e3df33d293f");
 
 extern CCriticalSection cs_main;
 extern std::map<uint256, CBlockIndex*> mapBlockIndex;
